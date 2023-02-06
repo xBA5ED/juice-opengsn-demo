@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@jbx-protocol/juice-721-delegate": "https://github.com/jbx-protocol/juice-721-delegate",
+    "@jbx-protocol/juice-opengsn": "https://github.com/jbx-protocol/juice-opengsn"
+  }
+}
